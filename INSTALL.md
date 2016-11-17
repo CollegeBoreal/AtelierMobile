@@ -2,7 +2,7 @@
 
 ## Exigences de systèmes
 
-* Installer OSX Maverick ou supérieur
+* Installer OSX Sierra
 
 * Installer nodejs (minimum node v6.9.1 LTS et npm 3.0) à télécharger [ici](https://nodejs.org/en/download/)
 
