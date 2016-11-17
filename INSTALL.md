@@ -63,6 +63,19 @@ $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/maste
       $ android update sdk --filter tools,platform-tools,android-23,build-tools-23.0.3,extra-android-m2repository,extra-google-m2repository,extra-android-support --all --no-ui
       ```
    * Installer l'accelerateur HAXM CPU  [ici](https://software.intel.com/sites/default/files/managed/38/16/haxm-macosx_v6_0_3.zip)
+   
+   * Configurer un appareil Android avec le nom Nexus_6
+   
+## Lancer les émulateurs
+
+  * iOS
+      ```
+      $ simulator
+      ```
+  * Android
+      ```
+      $ emulator -avd Nexus_6
+      ```
 
 # Reférence
 
