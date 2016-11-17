@@ -12,6 +12,28 @@
 $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
+## Dépendences pour le développement de mobile iOS
+1. Installer XCode (version 8.1)
+
+2. Installer le générateur de projet iOS xcodeproj (avec le gestionnaire de package Ruby gem)
+   * installer ActiveSupport superieur a la version 4.2.2 au prealable 
+       ERROR: Error installing xcodeproj:   
+       (activesupport requires Ruby version >= 2.2.2.)
+      ```   
+      $ sudo gem install activesupport -v 4.2.6
+      ```
+
+   * Installer xcodproj
+      ```
+      $ sudo gem install xcodeproj
+      ```
+
+   * Installer cocoapods requis par xcodeproj
+      ```
+      $ sudo gem install cocoapods
+      ```
+
+
 ## Dépendences pour le développement de mobile Android
 
 1. Installer Java JDK 8 
@@ -36,7 +58,7 @@ $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/maste
       ```
       $ android update sdk --filter tools,platform-tools,android-23,build-tools-23.0.3,extra-android-m2repository,extra-google-m2repository,extra-android-support --all --no-ui
       ```
-   * Installer HAXM CPU acceleration [ici](https://software.intel.com/sites/default/files/managed/38/16/haxm-macosx_v6_0_3.zip)
+   * Installer l'accelerateur HAXM CPU  [ici](https://software.intel.com/sites/default/files/managed/38/16/haxm-macosx_v6_0_3.zip)
 
 # Reférence
 
