@@ -2,11 +2,11 @@
 
 ## Exigences de systèmes
 
-* OSX Maverick ou supérieur
+* Installer OSX Maverick ou supérieur
 
-* nodejs (minimum node v6.9.1 LTS et npm 3.0) à télécharger [ici](https://nodejs.org/en/download/)
+* Installer nodejs (minimum node v6.9.1 LTS et npm 3.0) à télécharger [ici](https://nodejs.org/en/download/)
 
-* (Optionnel) Homebrew pour simplifier les dépendences
+* Installer Homebrew pour simplifier les dépendences
 
 ```
 $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
