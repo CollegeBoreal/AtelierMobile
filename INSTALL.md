@@ -35,7 +35,7 @@ $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/maste
 
   * Initialiser le simulator 
       ```
-      $ echo "alias simulator='open /Applications/Xcode.app/Contents/Developer/Applications/Simulator.app'" >> ~/.bashrc
+      $ echo "alias simulator='open /Applications/Xcode.app/Contents/Developer/Applications/Simulator.app'" >> ~/.bash_profile
       ```
 
 ## Dépendences pour le développement de mobile Android
@@ -46,7 +46,7 @@ $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/maste
    * Attendre la fin du téléchargement et installer la JDK
    * Initialiser JAVA  
       ```
-      $ echo "export JAVA_HOME=$(/usr/libexec/java_home)" >> ~/.bashrc
+      $ echo "export JAVA_HOME=$(/usr/libexec/java_home)" >> ~/.bash_profile
       ```
 2. Installer Android SDK
 
@@ -56,7 +56,7 @@ $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/maste
       ```
    * Initialiser Android  
       ```
-      $ echo "export ANDROID_HOME=/usr/local/opt/android-sdk" >> ~/.bashrc
+      $ echo "export ANDROID_HOME=/usr/local/opt/android-sdk" >> ~/.bash_profile
       ```
    * Mettre à jour les API 23   
       ```
