@@ -1,6 +1,6 @@
 # Installation
 
-# Exigences de systèmes
+## Exigences de systèmes
 
 * OSX Maverick ou supérieur
 
@@ -14,11 +14,15 @@ https://nodejs.org/en/download/
 $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
-# Dépendences pour le développement de mobile Android
+## Dépendences pour le développement de mobile Android
 
-* Installer Java JDK8
+Install JDK 8 or a later stable official release.
+Go to Java SE Downloads and click Download for JDK.
+In the Java SE Development Kit section, accept the license agreement and click the download link for Mac OS X.
+Wait for the download to complete and install the JDK.
+Set the JAVA_HOME system environment variable.
 
-http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+1. Installer Java JDK 8 en téléchargeant la [JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
 * Initialiser JAVA
 
