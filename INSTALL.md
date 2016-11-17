@@ -68,11 +68,11 @@ $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/maste
    
 ## Lancer les émulateurs
 
-  * iOS
+  * iOS  
       ```
       $ simulator
       ```
-  * Android
+  * Android  
       ```
       $ emulator -avd Nexus_6
       ```
