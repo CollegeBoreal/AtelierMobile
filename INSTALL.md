@@ -33,6 +33,10 @@ $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/maste
       $ sudo gem install cocoapods
       ```
 
+  * Initialiser le simulator 
+      ```
+      $ echo "alias simulator='open /Applications/Xcode.app/Contents/Developer/Applications/Simulator.app'" > ~/.bashrc
+      ```
 
 ## Dépendences pour le développement de mobile Android
 
