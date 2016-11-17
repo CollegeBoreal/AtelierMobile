@@ -14,11 +14,17 @@ https://nodejs.org/en/download/
 $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
-* Java JDK8 download
+# Dépendences pour le développement de mobile Android
+
+* Installer Java JDK8
 
 http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
+* Initialiser JAVA
 
+```
+$ echo "export JAVA_HOME=$(/usr/libexec/java_home)" > ~/.bashrc
+```
 
 # Reférence
 
