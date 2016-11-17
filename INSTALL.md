@@ -16,7 +16,7 @@ $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/maste
 1. Installer XCode (version 8.1)
 
 2. Installer le générateur de projet iOS xcodeproj (avec le gestionnaire de package Ruby gem)
-   * installer ActiveSupport superieur a la version 4.2.2 au prealable 
+   * installer ActiveSupport superieur a la version 4.2.2 au prealable  
        ERROR: Error installing xcodeproj:   
        (activesupport requires Ruby version >= 2.2.2.)
       ```   
