@@ -4,9 +4,7 @@
 
 * OSX Maverick ou supérieur
 
-* nodejs (minimum node v6.9.1 LTS et npm 3.0)
-
-https://nodejs.org/en/download/
+* nodejs (minimum node v6.9.1 LTS et npm 3.0) à télécharger [ici](https://nodejs.org/en/download/)
 
 * (Optionnel) Homebrew pour simplifier les dépendences
 
