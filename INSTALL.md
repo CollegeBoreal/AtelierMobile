@@ -22,13 +22,15 @@ In the Java SE Development Kit section, accept the license agreement and click t
 Wait for the download to complete and install the JDK.
 Set the JAVA_HOME system environment variable.
 
-1. Installer Java JDK 8 en téléchargeant la [JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+1. Installer Java JDK 8 
+    * télécharger la [JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)  
+    * Dans la section "Java SE Development Kit", accepter la license et clicker le lien pour Mac OS X.  
+    * Attendre la fin du téléchargement et installer la JDK
+    * Initialiser JAVA
 
-* Initialiser JAVA
-
-```
-$ echo "export JAVA_HOME=$(/usr/libexec/java_home)" > ~/.bashrc
-```
+      ```
+      $ echo "export JAVA_HOME=$(/usr/libexec/java_home)" > ~/.bashrc
+      ```
 
 # Reférence
 
