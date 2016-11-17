@@ -36,7 +36,7 @@ $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/maste
       ```
       $ android update sdk --filter tools,platform-tools,android-23,build-tools-23.0.3,extra-android-m2repository,extra-google-m2repository,extra-android-support --all --no-ui
       ```
-   * Installer HAXM CPU acceleration [ici](https://software.intel.com/en-us/android/articles/intel-hardware-accelerated-execution-manager)
+   * Installer HAXM CPU acceleration [ici](https://software.intel.com/sites/default/files/managed/38/16/haxm-macosx_v6_0_3.zip)
 
 # Reférence
 
