@@ -13,7 +13,7 @@ De Sud/Est aud Sud/West an passant par le nord en U
 |  07 |   |   |   |   |
 |  08 |   |   |   |   |
 |  09 |   |   |   |   |
-¡  10 |   |   |   |   |
+|  10 |   |   |   |   |
 |  11 |   |   |   |   |
 |  12 |   |   |   |   |
 |  13 |   |   |   |   |
