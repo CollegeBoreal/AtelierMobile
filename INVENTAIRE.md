@@ -3,7 +3,7 @@
 De Sud/Est aud Sud/West an passant par le nord en U
 
 ```
-(1) Sierra
+(1) Sierra & borealdev
 (2) XCode 8.1
 (3) Java
 (4) XHAM
