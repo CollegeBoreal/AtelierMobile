@@ -7,7 +7,7 @@ De Sud/Est aud Sud/West an passant par le nord en U
 (2) XCode 8.1
 (3) Java 1.8
 (4) HAXM
-
+(5) Developpeur
 ```
 
 | Mac |(1)|(2)|(3)|(4)|(5)|  Comments    |
@@ -18,7 +18,7 @@ De Sud/Est aud Sud/West an passant par le nord en U
 |   4 | X |   |   |   |   |              |    
 |   5 | X | X | X | X |   | Parrallels   |    
 |   6 | X |   |   |   |   |              |    
-|   7 | X |   |   |   |   |              |    
+|   7 | X | X |   | X |   |              |    
 |_____|___|___|___|___|___|______________|    
 |   8 | X |   |   |   |   |              |    
 |   9 | X |   |   |   |   |              |    
