@@ -33,6 +33,6 @@ De Sud/Est aud Sud/West an passant par le nord en U
 |  17 | X | X |   |   |   |              |    
 |  18 | X |   |   |   |   |              |    
 |  19 | X |   |   |   |   |              |    
-|  20 | X |   |   |   |   |              |    
+|  20 | X | X |   |   |   |              |    
 
 
