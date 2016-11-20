@@ -24,5 +24,5 @@ De Sud/Est aud Sud/West an passant par le nord en U
 |  18 |   |   |   |   |
 |  19 |   |   |   |   |
 |  20 |   |   |   |   |
-|-----|---|---|---|---|
+
 
