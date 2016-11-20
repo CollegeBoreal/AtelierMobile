@@ -2,7 +2,6 @@
 
 De Sud/Est aud Sud/West an passant par le nord en U
 
-|-----|---|---|---|---|  
 | Mac |   |   |   |   |  
 |-----|---|---|---|---|  
 |  01 |   |   |   |   |  
