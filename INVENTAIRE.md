@@ -26,7 +26,7 @@ De Sud/Est aud Sud/West an passant par le nord en U
 |  11 | X |   |   |   |   |              |    
 |  12 | X | X |   |   |   |              |    
 |  13 | X |   |   |   |   | Cabbagetown  |    
-|-----|---|---|---|---|---|--------------|    
+|_____|___|___|___|___|___|______________|    
 |  14 | X |   |   |   |   |              |    
 |  15 | X | X | X |   |   | Antananarivo |    
 |  16 | X | X |   |   |   |              |    
