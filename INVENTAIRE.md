@@ -2,7 +2,14 @@
 
 De Sud/Est aud Sud/West an passant par le nord en U
 
-| Mac |(1)|   |   |   |  
+```
+(1) Sierra
+(2) XCode 8.1
+(3) Java
+(4) XHAM
+```
+
+| Mac |(1)|(2)|(3)|(4)|  
 |-----|---|---|---|---|  
 |  01 |   |   |   |   |  
 |  02 |   |   |   |   |
