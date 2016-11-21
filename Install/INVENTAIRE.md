@@ -12,7 +12,7 @@ De Sud/Est aud Sud/West an passant par le nord en U
 
 | Mac |(1)|(2)|(3)|(4)|(5)|  Comments    |
 |----:|:-:|:-:|:-:|:-:|:-:|--------------|  
-|   1 | X | X | X | X |   |              |    
+|   1 | X | X | X | X | X |              |    
 |   2 | X | X | X | X | X |              |    
 |   3 | X | X | X | X |   |              |    
 |   4 | X | X | X | X | X |              |    
