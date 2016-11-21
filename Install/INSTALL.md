@@ -73,7 +73,7 @@ $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/maste
    * Configurer un appareil Android avec le nom Nexus_6
    
       ```
-   $ android create avd --name Nexus_6 --target android-23 --skin WVGA800 --abi x86_64 --path /home/webadmin/eclipse/_android/avd/LinuxPhone
+   $ echo no | android create avd --name Nexus_6 --target android-23 --skin WVGA800 --abi x86_64 --path ~/.android/avd/Nexus_6
       ```
    
 ## Lancer les émulateurs
