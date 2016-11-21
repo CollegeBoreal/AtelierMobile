@@ -1,4 +1,5 @@
-antananarivo:AtelierMobile borealdev$ Install/install.sh 
+```
+$ Install/install.sh 
 ==> This script will install:
 /usr/local/bin/brew
 /usr/local/share/doc/homebrew
@@ -39,3 +40,4 @@ antananarivo:AtelierMobile borealdev$ Install/install.sh
 /usr/local/share/zsh
 /usr/local/share/zsh/site-functions
 /usr/local/var
+```
