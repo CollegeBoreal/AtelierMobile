@@ -11,7 +11,7 @@
       $ emulator -avd Nexus_6
       ```
 
-Outils utilisé pour gérer le développement en NativeScript
+-- Outils utilisé pour gérer le développement en NativeScript
 
 ## Installer Nativescript (Telerik NativeScript)
 ```
