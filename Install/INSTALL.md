@@ -60,8 +60,14 @@ $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/maste
       ```
    * Mettre à jour les API 23   
       ```
-      $ android update sdk --filter tools,platform-tools,android-23,build-tools-23.0.3,extra-android-m2repository,extra-google-m2repository,extra-android-support --all --no-ui
+      $ echo y | android update sdk --filter tools,platform-tools,android-23,build-tools-23.0.3,extra-android-m2repository,extra-google-m2repository,extra-android-support --all --no-ui
       ```
+   * Mettre à jour les Images Systèmes 23   
+      ```
+      $ echo y | android update sdk --filter sys-img-x86_64-android-23 --all --no-ui 
+      ```
+      
+      
    * Installer l'accelerateur HAXM CPU  [ici](https://software.intel.com/sites/default/files/managed/38/16/haxm-macosx_v6_0_3.zip)
    
    * Configurer un appareil Android avec le nom Nexus_6
