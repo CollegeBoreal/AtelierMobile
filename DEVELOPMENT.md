@@ -4,7 +4,7 @@ Outils utilisé pour gérer le développement en NativeScript
 
 ## Nativescript (Telerik NativeScript)
 ```
-$ sudo npm install -g nativescript@2.3.0
+$ sudo npm install -g nativescript@2.4.0
 ```
 
 ## Projet
