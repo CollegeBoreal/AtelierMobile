@@ -3,4 +3,4 @@
 
 
 # Référence:
-* [Inventaire](INVENTAIRE.md)
+* [Inventaire](Install/INVENTAIRE.md)
