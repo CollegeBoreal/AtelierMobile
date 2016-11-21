@@ -1,11 +1,5 @@
 # Developpement
 
-Outils utilisé pour gérer le développement en NativeScript
-
-## Nativescript (Telerik NativeScript)
-```
-$ sudo npm install -g nativescript@2.4.0
-```
 ## Lancer les émulateurs
 
   * iOS  
@@ -16,7 +10,14 @@ $ sudo npm install -g nativescript@2.4.0
       ```
       $ emulator -avd Nexus_6
       ```
-      
+
+Outils utilisé pour gérer le développement en NativeScript
+
+## Installer Nativescript (Telerik NativeScript)
+```
+$ sudo npm install -g nativescript@2.4.0
+```
+
 ## Projet
 
 Creer un nouveau project Angular
