@@ -38,6 +38,9 @@ brew install android-sdk
 echo "export ANDROID_HOME=/usr/local/opt/android-sdk" >> ~/.bash_profile
 
 #   * Mettre à jour les API 23   
-android update sdk --filter tools,platform-tools,android-23,build-tools-23.0.3,extra-android-m2repository,extra-google-m2repository,extra-android-support --all --no-ui
+echo y | android update sdk --filter tools,platform-tools,android-23,build-tools-23.0.3,extra-android-m2repository,extra-google-m2repository,extra-android-support --all --no-ui 
+
+#.  * Mettre à jour les Images Systèmes 23
+echo y | android update sdk --filter sys-img-x86_64-android-23 --all --no-ui 
 
 
