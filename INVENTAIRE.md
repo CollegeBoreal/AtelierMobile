@@ -18,7 +18,7 @@ De Sud/Est aud Sud/West an passant par le nord en U
 |   4 | X |   |   |   |   |              |    
 |   5 | X | X | X | X |   | Parrallels   |    
 |   6 | X | X | X | X |   |              |    
-|   7 | X | X |   | X |   |              |    
+|   7 | X | X | X | X |   |              |    
 |_____|___|___|___|___|___|______________|    
 |   8 | X |   |   |   |   |              |    
 |   9 | X |   |   |   |   |              |    
