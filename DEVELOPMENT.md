@@ -8,7 +8,7 @@
       ```
   * Android  
       ```
-      $ emulator -avd Nexus_6
+      $ emulator -avd Nexus_6 &
       ```
 
 -- Outils utilisé pour gérer le développement en NativeScript
