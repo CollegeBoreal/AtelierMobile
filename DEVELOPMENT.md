@@ -6,7 +6,17 @@ Outils utilisé pour gérer le développement en NativeScript
 ```
 $ sudo npm install -g nativescript@2.4.0
 ```
+## Lancer les émulateurs
 
+  * iOS  
+      ```
+      $ simulator
+      ```
+  * Android  
+      ```
+      $ emulator -avd Nexus_6
+      ```
+      
 ## Projet
 
 Creer un nouveau project Angular
