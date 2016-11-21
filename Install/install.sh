@@ -40,7 +40,8 @@ echo "export ANDROID_HOME=/usr/local/opt/android-sdk" >> ~/.bash_profile
 #   * Mettre à jour les API 23   
 echo y | android update sdk --filter tools,platform-tools,android-23,build-tools-23.0.3,extra-android-m2repository,extra-google-m2repository,extra-android-support --all --no-ui 
 
-#.  * Mettre à jour les Images Systèmes 23
+#   * Mettre à jour les Images Systèmes 23
 echo y | android update sdk --filter sys-img-x86_64-android-23 --all --no-ui 
 
-
+#   * Configurer un appareil android
+echo no | android create avd --name Nexus_6 --target android-23 --skin WVGA800 --abi x86_64 --path ~/.android/avd/Nexus_6
