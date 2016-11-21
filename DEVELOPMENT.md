@@ -14,6 +14,12 @@ Creer un nouveau project Angular
 $ tns create mon-projet --template angular
 ```
 
+Compiler le projet
+```
+$ cd mon-projet; tns install
+```
+
+
 ## Plateforme
 
 Apple
@@ -28,5 +34,5 @@ $ tns platform add android
 
 ## Lancer l'application
 ```
-$ tns livesync <platforme> --emulator --watch
+$ tns livesync --emulator --watch
 ```
