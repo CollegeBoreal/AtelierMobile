@@ -29,8 +29,8 @@ De Sud/Est aud Sud/West an passant par le nord en U
 |_____|___|___|___|___|___|______________|    
 |  14 | X | X | X | X | X |              |    
 |  15 | X | X | X | X |   | Antananarivo |    
-|  16 | X | X | X | X |   |              |    
-|  17 | X | X | X | X |   |              |    
-|  18 | X | X | X | X |   |              |    
-|  19 | X | X | X | X |   |              |    
-|  20 | X | X | X | X |   |              |    
+|  16 | X | X | X | X | X |              |    
+|  17 | X | X | X | X | X |              |    
+|  18 | X | X | X | X | X |              |    
+|  19 | X | X | X | X | X |              |    
+|  20 | X | X | X | X | X |              |    
