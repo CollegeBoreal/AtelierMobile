@@ -2,7 +2,7 @@
 
 ## Boot on a USB drive with MacOS Image (.app) on it
 
-[Installer macOS Sierra](https://github.com/CollegeBoreal/AtelierMobile/blob/master/Install/Installer%20macOS%20Sierra.png)
+![alt tag](https://github.com/CollegeBoreal/AtelierMobile/blob/master/Install/Installer%20macOS%20Sierra.png)
 
 ## hold option key down
 
