@@ -11,12 +11,6 @@
       $ emulator -avd Nexus_6 &
       ```
 
--- Outils utilisé pour gérer le développement en NativeScript
-
-## Installer Nativescript (Telerik NativeScript)
-```
-$ sudo npm install -g nativescript@2.4.0
-```
 
 ## Projet
 
@@ -46,4 +40,11 @@ $ tns platform add android
 ## Lancer l'application
 ```
 $ tns livesync --emulator --watch
+```
+
+-- Outils utilisé pour gérer le développement en NativeScript
+
+# Installer Nativescript (Telerik NativeScript)
+```
+$ sudo npm install -g nativescript@2.4.0
 ```
