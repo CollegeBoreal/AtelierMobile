@@ -14,14 +14,14 @@
 
 ## Projet
 
-Creer un nouveau project Angular
+Creer un nouveau projet Angular
 ```
-$ tns create mon-projet --template angular
+$ tns create ronald-marion --template angular
 ```
 
 Compiler le projet
 ```
-$ cd mon-projet; tns install
+$ cd ronald-marion; tns install
 ```
 
 
