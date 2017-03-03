@@ -29,7 +29,7 @@ Compiler le projet
 $ tns install
 ```
 
-## Plateforme
+## Plateformes
 
 Apple
 ```
