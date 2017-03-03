@@ -42,9 +42,12 @@ $ tns platform add android
 $ tns livesync --emulator --watch
 ```
 
--- Outils utilisé pour gérer le développement en NativeScript
 
 # Installer Nativescript (Telerik NativeScript)
+
+
+-- Outils utilisé pour gérer le développement en NativeScript
+
 ```
 $ sudo npm install -g nativescript@2.4.0
 ```
