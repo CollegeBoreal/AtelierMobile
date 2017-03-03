@@ -19,11 +19,15 @@ Creer un nouveau projet Angular
 $ tns create ronald-marion --template angular
 ```
 
-Compiler le projet
+se déplacer dans le projet
 ```
-$ cd ronald-marion; tns install
+$ cd ronald-marion
 ```
 
+Compiler le projet
+```
+$ tns install
+```
 
 ## Plateforme
 
