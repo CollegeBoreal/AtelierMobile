@@ -43,7 +43,7 @@ $ tns platform add android
 
 ## Lancer l'application
 ```
-$ tns livesync --emulator --watch
+$ tns run
 ```
 
 
@@ -53,5 +53,5 @@ $ tns livesync --emulator --watch
 -- Outils utilisé pour gérer le développement en NativeScript
 
 ```
-$ sudo npm install -g nativescript@2.4.0
+$ sudo npm install -g nativescript
 ```
