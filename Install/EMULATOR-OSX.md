@@ -52,7 +52,7 @@ $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/maste
 
    * Installer le SDK par le terminal  
       ```
-      $ brew install android-sdk
+      $ brew cask install android-sdk
       ```
    * Initialiser Android  
       ```
