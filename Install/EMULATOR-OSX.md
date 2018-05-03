@@ -108,7 +108,9 @@ $ echo y | sdkmanager --licenses
 
 $ echo y | sdkmanager "system-images;android-23;google_apis;x86"
 
-$ avdmanager create avd -n test -k "system-images;android-23;google_apis;x86" --abi google_apis/x86
+```
+$ avdmanager create avd -n test -k "system-images;android-23;default;x86_64" --abi default/x86_64
+```
 
 ios
 
@@ -131,4 +133,13 @@ https://stackoverflow.com/questions/42554337/cannot-launch-avd-in-emulatorqt-lib
 
 ```
 function emulator { cd "$(dirname "$(which emulator)")" && ./emulator "$@"; }
+```
+
+```
+$ sdkmanager "platform-tools" "platforms;android-23"
+$ sdkmanager --install "build-tools;23.0.1"
+```
+
+```
+$brew cask install intel-haxm
 ```
