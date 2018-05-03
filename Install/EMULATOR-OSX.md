@@ -126,3 +126,9 @@ $ sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
 ```
 $ sdkmanager --list --verbose | grep x86_64
 ```
+
+https://stackoverflow.com/questions/42554337/cannot-launch-avd-in-emulatorqt-library-not-found
+
+```
+function emulator { cd "$(dirname "$(which emulator)")" && ./emulator "$@"; }
+```
