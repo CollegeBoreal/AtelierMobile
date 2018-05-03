@@ -91,3 +91,15 @@ $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/maste
 
 https://docs.nativescript.org/start/ns-setup-os-x
 
+
+
+## Install adb
+
+```
+$ brew cask install android-platform-tools
+Start using adb
+```
+
+```
+$ adb devices
+```
