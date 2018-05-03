@@ -147,5 +147,5 @@ $ sdkmanager --install "build-tools;23.0.1"
 ```
 
 ```
-$brew cask install intel-haxm
+$ brew cask install intel-haxm
 ```
