@@ -119,4 +119,10 @@ $ tns platform add ios
 NativeScript can only run in Xcode version 6.0 or greater
 ```
 
+```
 $ sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
+```
+
+```
+$ sdkmanager --list --verbose | grep x86_64
+```
