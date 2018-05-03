@@ -104,12 +104,16 @@ Start using adb
 $ adb devices
 ```
 
+```
 $ echo y | sdkmanager --licenses
-
-$ echo y | sdkmanager "system-images;android-23;google_apis;x86"
+```
 
 ```
-$ avdmanager create avd -n test -k "system-images;android-23;default;x86_64" --abi default/x86_64
+$ echo y | sdkmanager "system-images;android-23;google_apis;x86"
+```
+
+```
+$ avdmanager create avd -n Nexus_6 -k "system-images;android-23;default;x86_64" --abi default/x86_64
 ```
 
 ios
