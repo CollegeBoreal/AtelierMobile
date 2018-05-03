@@ -104,6 +104,8 @@ Start using adb
 $ adb devices
 ```
 
+## Install Trial
+
 ```
 $ echo y | sdkmanager --licenses
 ```
