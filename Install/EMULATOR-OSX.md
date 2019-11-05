@@ -174,3 +174,10 @@ Change Homebrew group permissions
 ```
 $ sudo chmod -R g+w /usr/local/Homebrew
 ```
+
+Change Homebrew group variable permissions
+
+
+```
+$ sudo chmod -R g+w /usr/local/var/homebrew
+```
