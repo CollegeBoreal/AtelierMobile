@@ -149,3 +149,28 @@ $ sdkmanager --install "build-tools;23.0.1"
 ```
 $ brew cask install intel-haxm
 ```
+
+
+### dealing with homebrew on multiple account
+
+
+https://superuser.com/questions/214004/how-to-add-user-to-a-group-from-mac-os-x-command-line
+
+Add `admin` group to $USER 
+
+```
+$ sudo dseditgroup -o edit -a $username_to_add -t user admin
+```
+
+Add `wheel` group to $USER 
+
+
+```
+$ sudo dseditgroup -o edit -a $username_to_add -t user wheel
+```
+
+Change Homebrew group permissions
+
+```
+$ sudo chmod -R g+w /usr/local/Homebrew
+```
